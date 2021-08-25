@@ -1,0 +1,48 @@
+{
+  "name": "is-zone",
+  "version": "1.0.0",
+  "description": "Installing this package installs a bunch of useless packages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VukkyLtd/is-zone.git"
+  },
+  "author": "Vukky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VukkyLtd/is-zone/issues"
+  },
+  "homepage": "https://github.com/VukkyLtd/is-zone#readme",
+  "dependencies": {
+    "is-arguments": "^1.1.1",
+    "is-array-like": "^1.1.2",
+    "is-bigint": "^1.0.4",
+    "is-boolean-object": "^1.1.2",
+    "is-callable": "^1.2.4",
+    "is-ci": "^3.0.0",
+    "is-core-module": "^2.6.0",
+    "is-date-object": "^1.0.5",
+    "is-even": "^1.0.0",
+    "is-generator-function": "^1.0.10",
+    "is-native": "^1.0.1",
+    "is-negative-zero": "^2.0.1",
+    "is-nil": "^1.0.1",
+    "is-null": "^1.0.1",
+    "is-number": "^6.0.0",
+    "is-number-object": "^1.0.6",
+    "is-object": "^1.0.2",
+    "is-odd": "^3.0.1",
+    "is-regex": "^1.1.4",
+    "is-stream": "^3.0.0",
+    "is-string": "^1.0.7",
+    "is-symbol": "^1.0.4",
+    "is-typed-array": "^1.1.7",
+    "is-uneven": "^1.0.0",
+    "is-unnull": "^1.0.0",
+    "is-unodd": "^1.0.0",
+    "is-window": "^1.0.2"
+  }
+}
