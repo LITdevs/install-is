@@ -1,5 +1,5 @@
 {
-  "name": "is-zone",
+  "name": "install-is",
   "version": "1.0.0",
   "description": "Installing this package installs a bunch of useless packages.",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VukkyLtd/is-zone.git"
+    "url": "git+https://github.com/VukkyLtd/install-is.git"
   },
   "author": "Vukky",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VukkyLtd/is-zone/issues"
+    "url": "https://github.com/VukkyLtd/install-is/issues"
   },
-  "homepage": "https://github.com/VukkyLtd/is-zone#readme",
+  "homepage": "https://github.com/VukkyLtd/install-is#readme",
   "dependencies": {
     "is-arguments": "^1.1.1",
     "is-array-like": "^1.1.2",
