@@ -1,3 +1,3 @@
 # install-is
 
-> Installing this package installs [a bunch of useless packages](https://www.npmjs.com/package/install-is?activeTab=dependencies).
+> Installing this package installs a bunch of useless packages. Just install it, and look at your node_modules folder.
