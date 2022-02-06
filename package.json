@@ -125,6 +125,7 @@
     "isobject": "^4.0.0",
     "isstream": "^0.1.2",
     "istextorbinary": "^6.0.0",
-    "p-is-promise": "^4.0.0"
+    "p-is-promise": "^4.0.0",
+    "is-is-even": "^1.0.2"
   }
 }
