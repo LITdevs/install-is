@@ -100,7 +100,7 @@
     "is-svg": "^4.3.1",
     "is-symbol": "^1.0.4",
     "is-ten": "^0.1.0",
-    "is-ten-thousand": "^0.2.0",
+    "is-ten-thousand": "^1.2.0",
     "is-touch-device": "^1.0.1",
     "is-typed-array": "^1.1.7",
     "is-typedarray": "^1.0.0",
