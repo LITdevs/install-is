@@ -43,7 +43,7 @@
     "is-date-object": "^1.0.5",
     "is-decimal": "^2.0.0",
     "is-descriptor": "^3.0.0",
-    "is-docker": "^2.2.1",
+    "is-docker": "^3.0.0",
     "is-dom": "^1.1.0",
     "is-email": "^1.0.1",
     "is-equal": "^1.6.3",
