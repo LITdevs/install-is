@@ -71,7 +71,7 @@
     "is-negative-zero": "^2.0.1",
     "is-nil": "^1.0.1",
     "is-null": "^1.0.1",
-    "is-number": "^6.0.0",
+    "is-number": "^7.0.0",
     "is-number-like": "^1.0.8",
     "is-number-object": "^1.0.6",
     "is-number-strict": "^1.0.3",
