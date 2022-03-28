@@ -120,7 +120,7 @@
     "is-wsl": "^2.2.0",
     "is-yarn-global": "^0.4.0",
     "is-zone": "^1.0.0",
-    "isbinaryfile": "^4.0.8",
+    "isbinaryfile": "^5.0.0",
     "isexe": "^2.0.0",
     "isobject": "^4.0.0",
     "isstream": "^0.1.2",
