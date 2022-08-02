@@ -20,6 +20,7 @@
     "@emotion/is-prop-valid": "^1.1.0",
     "5-is-odd": "^1.0.1",
     "6-is-odd": "^1.0.0",
+    "7-is-odd": "^1.0.1",
     "has-value": "^2.0.2",
     "is-absolute-url": "^4.0.1",
     "is-accessor-descriptor": "^3.0.1",
