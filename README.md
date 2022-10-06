@@ -1,6 +1,6 @@
 # install-is
 
-Installing this package installs a bunch of useless packages. Just install it, look at your `node_modules` folder, and enjoy.
+Installing this package installs a bunch of useful packages. Just install it, look at your `node_modules` folder, and enjoy.
 
 ## But why?
 
