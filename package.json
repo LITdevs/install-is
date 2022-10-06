@@ -1,21 +1,21 @@
 {
   "name": "install-is",
   "version": "1.3.0",
-  "description": "Installing this package installs a bunch of useless packages.",
+  "description": "Installing this package installs a bunch of useful packages.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VukkyLtd/install-is.git"
+    "url": "git+https://github.com/LITdevs/install-is.git"
   },
   "author": "Vukky",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VukkyLtd/install-is/issues"
+    "url": "https://github.com/LITdevs/install-is/issues"
   },
-  "homepage": "https://github.com/VukkyLtd/install-is#readme",
+  "homepage": "https://github.com/LITdevs/install-is#readme",
   "dependencies": {
     "@emotion/is-prop-valid": "^1.1.0",
     "5-is-odd": "^1.0.1",
