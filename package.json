@@ -39,7 +39,7 @@
     "is-chinese": "^1.4.6",
     "is-ci": "^3.0.0",
     "is-color-stop": "^1.1.0",
-    "is-core-module": "^2.6.0",
+    "is-core-module": "^2.11.0",
     "is-data-descriptor": "^2.0.0",
     "is-date-object": "^1.0.5",
     "is-decimal": "^2.0.0",
