@@ -63,7 +63,7 @@
     "is-capitalized": "^1.0.0",
     "is-cdn-url": "^1.0.0",
     "is-charging": "^2.0.0",
-    "is-chinese": "^1.4.8",
+    "is-chinese": "^2.0.0",
     "is-ci": "^3.0.0",
     "is-circular": "^1.0.2",
     "is-color": "^1.0.2",
