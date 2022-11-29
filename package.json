@@ -261,6 +261,7 @@
     "is-typeof-error": "^1.1.0",
     "is-uneven": "^1.0.0",
     "is-unicode-supported": "^1.3.0",
+    "is-unix": "^2.0.7",
     "is-unnull": "^1.0.0",
     "is-unodd": "^1.0.0",
     "is-up": "^5.0.0",
