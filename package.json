@@ -1,6 +1,6 @@
 {
   "name": "install-is",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "Installing this package installs a bunch of useful packages.",
   "main": "index.js",
   "scripts": {
