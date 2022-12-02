@@ -177,7 +177,7 @@
     "is-lower-case": "^2.0.2",
     "is-map": "^2.0.2",
     "is-md": "^3.0.0",
-    "is-media-descriptor": "^4.2.12",
+    "is-media-descriptor": "^5.0.0",
     "is-merge-commit": "^1.0.1",
     "is-mersenne-prime": "^1.0.0",
     "is-missing": "^1.0.4",
