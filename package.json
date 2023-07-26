@@ -292,7 +292,7 @@
     "is-uuid": "^1.0.2",
     "is-valid-domain": "^0.1.2",
     "is-vegan": "^1.2.0",
-    "is-video": "^1.0.1",
+    "is-video": "^2.0.0",
     "is-weakmap": "^2.0.1",
     "is-weakset": "^2.0.1",
     "is-web-crawler": "^1.1.0",
