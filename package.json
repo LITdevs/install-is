@@ -315,7 +315,7 @@
     "is-zone": "^1.0.0",
     "isbinaryfile": "^5.0.0",
     "isdir": "^2.0.1",
-    "isexe": "^2.0.0",
+    "isexe": "^3.1.0",
     "isint": "^1.0.1",
     "isnullorempty": "^1.0.1",
     "isobject": "^4.0.0",
