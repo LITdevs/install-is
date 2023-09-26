@@ -306,7 +306,7 @@
     "is-woff": "^1.0.3",
     "is-word": "^1.0.4",
     "is-word-character": "^2.0.0",
-    "is-wsl": "^2.2.0",
+    "is-wsl": "^3.1.0",
     "is-xz": "^2.0.0",
     "is-yarn": "^0.0.3",
     "is-yarn-global": "^0.4.1",
