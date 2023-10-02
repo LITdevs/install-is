@@ -174,7 +174,7 @@
     "is-kindof": "^3.0.1",
     "is-lambda": "^1.0.1",
     "is-localhost-url": "^1.0.3",
-    "is-lower-case": "^2.0.2",
+    "is-lower-case": "^3.0.0",
     "is-map": "^2.0.2",
     "is-md": "^3.0.0",
     "is-media-descriptor": "^5.0.0",
