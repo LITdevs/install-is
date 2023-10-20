@@ -99,7 +99,7 @@
     "is-datestring": "^1.0.1",
     "is-decimal": "^2.0.0",
     "is-descriptor": "^3.0.0",
-    "is-discord-invite": "^1.0.10",
+    "is-discord-invite": "^2.0.7",
     "is-docker": "^3.0.0",
     "is-dom": "^1.1.0",
     "is-domain": "^0.0.1",
