@@ -133,7 +133,7 @@
     "is-fn": "^3.0.0",
     "is-fqdn": "^2.0.1",
     "is-friday": "^1.0.1",
-    "is-fullwidth-code-point": "^4.0.0",
+    "is-fullwidth-code-point": "^5.0.0",
     "is-function": "^1.0.2",
     "is-generator": "^1.0.3",
     "is-generator-fn": "^3.0.0",
