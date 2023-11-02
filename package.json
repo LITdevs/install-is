@@ -320,7 +320,7 @@
     "isnullorempty": "^1.0.1",
     "isobject": "^4.0.0",
     "isstream": "^0.1.2",
-    "istextorbinary": "^6.0.0",
+    "istextorbinary": "^7.0.0",
     "isunique": "^1.0.0",
     "leap-year": "^4.0.0",
     "min-is": "^2.2.1",
